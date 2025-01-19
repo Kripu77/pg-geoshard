@@ -1,7 +1,7 @@
 # PG-GEOSHARD
 
 
-## Planned Repo Sturcture:
+## Planned Repo Structure:
 
 ├── README.md                  # Overview of the project
 ├── docs/                      # Documentation for the project
