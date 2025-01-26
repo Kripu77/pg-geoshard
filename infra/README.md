@@ -1,4 +1,5 @@
 # Setup:
+```
 infra/
 ├── terraform/
 │   ├── kubernetes/            # Kubernetes cluster setup
@@ -6,3 +7,4 @@ infra/
 └── scripts/
     ├── apply.sh               # Apply Terraform configs
     └── destroy.sh             # Destroy resources
+```
