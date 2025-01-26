@@ -1,5 +1,6 @@
 # Setup
 
+```
 services/
 └── backend/
     ├── cmd/                   # Entry point for the service
@@ -7,3 +8,4 @@ services/
     ├── configs/               # Configuration files
     ├── main.go                # Main service file (for Go projects)
     └── Dockerfile             # Dockerfile for containerization
+```
